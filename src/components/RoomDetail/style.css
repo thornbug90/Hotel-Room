@@ -1,0 +1,12 @@
+.info-box {
+    padding: 5px;
+}
+
+.info-box > .MuiChip-root {
+    margin-right: 5px;
+}
+
+.info-box .room-desc {
+    margin-left: 10px;
+    margin-top: 20px;
+}

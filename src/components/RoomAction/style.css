@@ -1,0 +1,12 @@
+.room-action-container button {
+    min-width: 5rem;
+    text-transform: none;
+}
+
+.room-action-container .room-action-box {
+    box-shadow: none;
+}
+
+.room-action-box .divider {
+    margin: 0 10px;
+}

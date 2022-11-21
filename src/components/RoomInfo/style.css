@@ -1,0 +1,8 @@
+.roominfo-container .MuiListItem-root {
+    display: flex;
+    align-items: center;
+}
+
+.roominfo-container .MuiListItem-root .MuiListItemAvatar-root {
+    margin-top: 0;
+}
