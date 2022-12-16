@@ -1,4 +1,4 @@
-# Hotel Reservation System 🚀
+# Hotel Reservation System
 
 ![build status](https://img.shields.io/github/workflow/status/reduxjs/cra-template-redux-typescript/Tests/master?style=flat-square)
 
